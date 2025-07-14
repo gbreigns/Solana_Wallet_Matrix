@@ -1,0 +1,74 @@
+{
+  "wallets": [
+    {
+      "name": "Phantom",
+      "platforms": ["Extension", "Mobile"],
+      "native_staking": true,
+      "nft_handling": true,
+      "dapp_support": true,
+      "multi_sig_or_hardware": true,
+      "solana_pay_qr": true,
+      "solana_fiat_on_off_ramp": true
+    },
+    {
+      "name": "Solflare",
+      "platforms": ["Web", "Extension", "Mobile"],
+      "native_staking": true,
+      "nft_handling": true,
+      "dapp_support": true,
+      "multi_sig_or_hardware": true,
+      "solana_pay_qr": true,
+      "solana_fiat_on_off_ramp": false
+    },
+    {
+      "name": "Backpack",
+      "platforms": ["Extension", "Mobile"],
+      "native_staking": true,
+      "nft_handling": true,
+      "dapp_support": true,
+      "multi_sig_or_hardware": false,
+      "solana_pay_qr": true,
+      "solana_fiat_on_off_ramp": false
+    },
+    {
+      "name": "Bitget",
+      "platforms": ["Extension", "Mobile"],
+      "native_staking": true,
+      "nft_handling": true,
+      "dapp_support": true,
+      "multi_sig_or_hardware": true,
+      "solana_pay_qr": true,
+      "solana_fiat_on_off_ramp": false
+    },
+    {
+      "name": "Okx",
+      "platforms": ["Desktop", "Mobile"],
+      "native_staking": true,
+      "nft_handling": true,
+      "dapp_support": true,
+      "multi_sig_or_hardware": true,
+      "solana_pay_qr": true,
+      "solana_fiat_on_off_ramp": false
+    },
+    {
+      "name": "Trust Wallet",
+      "platforms": ["Extension", "Mobile"],
+      "native_staking": true,
+      "nft_handling": true,
+      "dapp_support": true,
+      "multi_sig_or_hardware": true,
+      "solana_pay_qr": true,
+      "solana_fiat_on_off_ramp": false
+    },
+    {
+      "name": "Exodus",
+      "platforms": ["Mobile"],
+      "native_staking": true,
+      "nft_handling": true,
+      "dapp_support": true,
+      "multi_sig_or_hardware": false,
+      "solana_pay_qr": false,
+      "solana_fiat_on_off_ramp": false
+    }
+  ]
+}
