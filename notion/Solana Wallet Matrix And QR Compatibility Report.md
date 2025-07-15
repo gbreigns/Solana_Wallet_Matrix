@@ -70,7 +70,7 @@ I evaluated each Solana wallet listed through hands-on testing and research for 
     
 - 📸 **Screenshots and Loom Video Folder**
     
-    [1izSH6JzFgbG4rtJoXu_lsz7gT-ZEkA03?usp=sharing](https://drive.google.com/drive/folders/1izSH6JzFgbG4rtJoXu_lsz7gT-ZEkA03?usp=sharing)
+    [1izSH6JzFgbG4rtJoXu_lsz7gT-ZEkA03?usp=sharing](https://drive.google.com/drive/folders/1PrW013zkRV8K-x2NmjJ2E-Zcc9Lol6uS?usp=drive_link)
     
 
 ## Additional testing notes
