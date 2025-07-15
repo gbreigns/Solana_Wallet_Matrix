@@ -31,7 +31,7 @@ I evaluated each Solana wallet listed through hands-on testing and research for 
 | --- | --- | --- | --- |
 | **Phantom** | Open app → Tap QR → Scan → Approve | ⭐⭐⭐⭐⭐ | ✅ |
 | **Solflare** | Open app → Scan → Review Tx → Confirm | ⭐⭐⭐⭐⭐ | ✅ |
-| Backpack | Camera scan → Opens app → Confirm | ⭐⭐⭐⭐ | ❌ |
+| Backpack | Opens app → Tap Send → Scan → Confirm | ⭐⭐⭐⭐ | ❌ |
 | Bitget Wallet | Scan via Camera → Review Tx → Confirm | ⭐⭐⭐⭐ | ✅ |
 | Okx Wallet | Open app → Tap QR → Scan → Approve | ⭐⭐⭐ | ✅ |
 | **Trust Wallet** | Open app → Tap QR → Scan → Approve | ⭐⭐⭐⭐ | ❌ |
@@ -49,6 +49,7 @@ I evaluated each Solana wallet listed through hands-on testing and research for 
 
 - **Phantom** is the best overall performer. It has the domain name feature, excellent Solana Pay flow, strong mobile and extension UI/UX.
 - Backpack and Bitget are underrated pick for mobile and extension Solana Pay transactions. Supporting almost all chains its UI/UX i underrated. its also has advanced features.
+- Backpack doesn’t enable the QR code feature on there browser extension wallets. Same as Phantom, Solflare and Bitget wallets.
 - Solflare is a high performer with sleek interface but it lacks instantly accessible QR scanner. And the gas fees are higher than other wallets
 - Trust and Okx has similar interface and structure. easy to navigate and lesser gas fees
 - **Exodus** is an underrated pick for mobile-first Solana Pay transactions.
