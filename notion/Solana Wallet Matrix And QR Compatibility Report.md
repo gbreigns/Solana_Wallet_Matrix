@@ -31,11 +31,11 @@ I evaluated each Solana wallet listed through hands-on testing and research for 
 | --- | --- | --- | --- |
 | **Phantom** | Open app → Tap QR → Scan → Approve | ⭐⭐⭐⭐⭐ | ✅ |
 | **Solflare** | Open app → Scan → Review Tx → Confirm | ⭐⭐⭐⭐⭐ | ✅ |
-| Backpack | Opens app → Tap Send → Scan → Confirm | ⭐⭐⭐⭐ | ❌ |
+| Backpack | Opens app → Tap Send → Scan → Confirm | ⭐⭐⭐⭐ | ✅ |
 | Bitget Wallet | Scan via Camera → Review Tx → Confirm | ⭐⭐⭐⭐ | ✅ |
 | Okx Wallet | Open app → Tap QR → Scan → Approve | ⭐⭐⭐ | ✅ |
-| **Trust Wallet** | Open app → Tap QR → Scan → Approve | ⭐⭐⭐⭐ | ❌ |
-| Exodus | Solana Pay tab → Scan → Approve | ⭐⭐⭐⭐ | ❌ |
+| **Trust Wallet** | Open app → Tap QR → Scan → Approve | ⭐⭐⭐⭐ | ✅ |
+| Exodus | Solana Pay tab → Scan → Approve | ⭐⭐⭐⭐ | ✅ |
 
 ## 🖼 Solana Pay **Wallet Features**
 
@@ -72,7 +72,8 @@ I evaluated each Solana wallet listed through hands-on testing and research for 
 - 📸 **Screenshots and Loom Video Folder**
     
     [1izSH6JzFgbG4rtJoXu_lsz7gT-ZEkA03?usp=sharing](https://drive.google.com/drive/folders/1PrW013zkRV8K-x2NmjJ2E-Zcc9Lol6uS?usp=drive_link)
-    
+
+    Loom link: ([https://drive.google.com/drive/folders/1PrW013zkRV8K-x2NmjJ2E-Zcc9Lol6uS?usp=drive_link](https://www.loom.com/share/60a573025fdc4eb5b3748ef30dfd286a?sid=6a7e43ab-0e71-4601-8400-e130195b7f8a))
 
 ## Additional testing notes
 
